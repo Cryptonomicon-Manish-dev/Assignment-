@@ -1,0 +1,57 @@
+Task Manager
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter your choice: 1
+Enter task title: Complete Assignment
+Enter task priority (1-5): 2
+Task 'Complete Assignment' added successfully.
+
+Task Manager
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter your choice: 1
+Enter task title: Buy Groceries
+Enter task priority (1-5): 4
+Task 'Buy Groceries' added successfully.
+
+Task Manager
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter your choice: 3
+
+Task List:
+Complete Assignment (Priority: 2)
+Buy Groceries (Priority: 4)
+
+Task Manager
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter your choice: 2
+Enter task title to remove: Buy Groceries
+Task 'Buy Groceries' removed successfully.
+
+Task Manager
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter your choice: 3
+
+Task List:
+Complete Assignment (Priority: 2)
+
+Task Manager
+1. Add Task
+2. Remove Task
+3. List Tasks
+4. Exit
+Enter your choice: 4
+Exiting Task Manager. Goodbye!
